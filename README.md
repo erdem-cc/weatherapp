@@ -1,6 +1,6 @@
 # 🌦️ WeatherApp
 
-Une application météo responsive et stylée, avec détection automatique de la localisation et animations de chargement.
+Une application météo simple et responsive, avec détection automatique de la localisation et animations de chargement.
 
 ![screenshot](/Screenshot.png)
 
