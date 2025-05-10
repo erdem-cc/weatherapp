@@ -2,7 +2,7 @@
 
 Une application météo responsive et stylée, avec détection automatique de la localisation et animations de chargement.
 
-![screenshot](/screenshot.png)
+![screenshot](/Screenshot.png)
 
 ---
 
